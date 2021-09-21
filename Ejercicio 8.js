@@ -1,0 +1,5 @@
+var a=0;
+for(x=1; x<100; x++){
+    a= a+x;
+    console.log(a);
+}
